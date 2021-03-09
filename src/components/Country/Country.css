@@ -1,0 +1,16 @@
+.country {
+    text-align: center;
+    font-family: "Arvo", sans-serif;
+    background-color: #007BFF;
+    color: white;
+    width: 350px;
+    height: 400px;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+    border-radius: 1em;
+  }
+  .country img {
+    width: 270px !important;
+    border: 3px solid blue;
+  }
